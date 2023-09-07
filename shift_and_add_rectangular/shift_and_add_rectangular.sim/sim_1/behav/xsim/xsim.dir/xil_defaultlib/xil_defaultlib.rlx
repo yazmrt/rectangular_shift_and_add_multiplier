@@ -1,0 +1,13 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+C:/Users/yazmr/OneDrive/Masast/Vivado Codes/shift_and_add_rectangular/shift_and_add_rectangular.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,,,,,,,
+C:/Users/yazmr/OneDrive/Masast/Vivado Codes/shift_and_add_rectangular/shift_and_add_rectangular.srcs/sim_1/new/tb_ShiftAdd_Top.v,1694114702,verilog,,,,tb_ShiftAdd_Top,,,,,,,,
+C:/Users/yazmr/OneDrive/Masast/Vivado Codes/shift_and_add_rectangular/shift_and_add_rectangular.srcs/sources_1/new/FullAdder.v,1694109138,verilog,,C:/Users/yazmr/OneDrive/Masast/Vivado Codes/shift_and_add_rectangular/shift_and_add_rectangular.srcs/sources_1/new/ShiftAdd_Top.v,,FullAdder,,,,,,,,
+C:/Users/yazmr/OneDrive/Masast/Vivado Codes/shift_and_add_rectangular/shift_and_add_rectangular.srcs/sources_1/new/ShiftAdd_Top.v,1694117153,verilog,,C:/Users/yazmr/OneDrive/Masast/Vivado Codes/shift_and_add_rectangular/shift_and_add_rectangular.srcs/sources_1/new/and_gate.v,,ShiftAdd_Top,,,,,,,,
+C:/Users/yazmr/OneDrive/Masast/Vivado Codes/shift_and_add_rectangular/shift_and_add_rectangular.srcs/sources_1/new/and_gate.v,1694109415,verilog,,C:/Users/yazmr/OneDrive/Masast/Vivado Codes/shift_and_add_rectangular/shift_and_add_rectangular.srcs/sources_1/new/dff.v,,and_gate,,,,,,,,
+C:/Users/yazmr/OneDrive/Masast/Vivado Codes/shift_and_add_rectangular/shift_and_add_rectangular.srcs/sources_1/new/dff.v,1694109229,verilog,,C:/Users/yazmr/OneDrive/Masast/Vivado Codes/shift_and_add_rectangular/shift_and_add_rectangular.srcs/sources_1/new/mult_control.v,,dff,,,,,,,,
+C:/Users/yazmr/OneDrive/Masast/Vivado Codes/shift_and_add_rectangular/shift_and_add_rectangular.srcs/sources_1/new/mult_control.v,1694113620,verilog,,C:/Users/yazmr/OneDrive/Masast/Vivado Codes/shift_and_add_rectangular/shift_and_add_rectangular.srcs/sources_1/new/serialAdder.v,,mult_control,,,,,,,,
+C:/Users/yazmr/OneDrive/Masast/Vivado Codes/shift_and_add_rectangular/shift_and_add_rectangular.srcs/sources_1/new/serialAdder.v,1694113600,verilog,,C:/Users/yazmr/OneDrive/Masast/Vivado Codes/shift_and_add_rectangular/shift_and_add_rectangular.srcs/sources_1/new/shift_reg.v,,serialAdder,,,,,,,,
+C:/Users/yazmr/OneDrive/Masast/Vivado Codes/shift_and_add_rectangular/shift_and_add_rectangular.srcs/sources_1/new/shift_reg.v,1694109204,verilog,,C:/Users/yazmr/OneDrive/Masast/Vivado Codes/shift_and_add_rectangular/shift_and_add_rectangular.srcs/sim_1/new/tb_ShiftAdd_Top.v,,shift_reg,,,,,,,,
